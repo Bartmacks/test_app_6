@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-Complete Ruby on Rails Developer
+First test repo on Complete Ruby on Rails Developer course
